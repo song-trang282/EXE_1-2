@@ -1,0 +1,1 @@
+print(sum(i in "2357" for i in input()))
